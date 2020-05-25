@@ -27,6 +27,8 @@ https://github.com/Rocketseat/youtube-git-guia-pratico-iniciante
 * `git branch -D branchname` // delete a branch (timeline)
 * `git checkout branchname` // change of branch
 * `git checkout -b branchname` // create and change to new branch
+* `git checkout numberofcommit` // recover point in timeline
+* `git checkout numberofcommit filename` // recover file in a point in timeline
 * `git merge branchname` // union two brach - actual and branchname
 
 ### Git with Github
