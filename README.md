@@ -25,7 +25,8 @@ https://github.com/Rocketseat/youtube-git-guia-pratico-iniciante
 * `git branch` // show all branchs and actual (timeline)
 * `git branch branchname` // create a new branch (timeline)
 * `git branch -D branchname` // delete a branch (timeline)
-* `git checkout branchname` // change de branch
+* `git checkout branchname` // change of branch
+* `git checkout -b branchname` // create and change to new branch
 * `git merge branchname` // union two brach - actual and branchname
 
 ### Git with Github
@@ -37,4 +38,4 @@ https://github.com/Rocketseat/youtube-git-guia-pratico-iniciante
 * `git push -u origin master` // do this in first time to create the connect with local to remote and send files
 * `git push` // send local modifications to remote repository
 * `git clone` // clone a project / repository - copy a remote porject to local machine for work 
-* `git pull` // puxa do repositório remoto
+* `git pull` // bring remote modification on remote repository to local machine (do this first than push)
